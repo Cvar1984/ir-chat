@@ -1,0 +1,22 @@
+{
+  "name": "cvar1984/ir-chat",
+  "description": "Simple IRC",
+  "type": "library",
+  "require": {
+    "ext-sockets": "^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Cvar1984\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cvar1984",
+      "role" : "Developer",
+      "email": "gedzsarjuncomuniti@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}
